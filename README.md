@@ -46,7 +46,7 @@
 * [ReVampIt!](https://www.revamp-it.ch/index.php/en/) - upcycling of hardware, and Linux installations
 
 # Portugal
-* [Libretrend](https://libretrend.com/)
+* <strike>[Libretrend](https://libretrend.com/)</strike>
 
 # Romania
 * [Technoethical](https://tehnoetic.com/)
